@@ -4,7 +4,7 @@ import { SocialIcon } from 'react-social-icons';
 
 function PortfolioFooter() {
   return (
-    <div className="fixed-bottom">
+    <div>
       <div className="footer__content">
         <div className="footer__content__socials">
             <SocialIcon url="https://www.linkedin.com" />
